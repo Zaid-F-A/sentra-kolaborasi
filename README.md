@@ -27,3 +27,4 @@ Repository bersama praktikum DevOps — Politeknik Negeri Batam.
 
 uji langsung
 uji langsung
+- monitoring.sh - memantau layanan secara berkala
