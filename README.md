@@ -25,3 +25,4 @@ Repository bersama praktikum DevOps — Politeknik Negeri Batam.
 - `src/healthcheck.sh` — memeriksa status layanan
 - `src/monitoring.sh` — memantau layanan secara berkala
 
+uji langsung
