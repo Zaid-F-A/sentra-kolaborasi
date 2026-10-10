@@ -1,0 +1,6 @@
+
+# Seluruh berkas ditinjau oleh Maintainer secara baku
+* @Zaid-F-A && @Nelf-AAA
+# Skrip shell wajib ditinjau kedua Developer
+*.sh @Zaid-F-A @Nelf-AAA
+
