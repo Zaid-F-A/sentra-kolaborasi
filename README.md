@@ -7,9 +7,9 @@ Repository bersama praktikum DevOps — Politeknik Negeri Batam.
 
 | Peran | Nama | Akun GitHub |
 |-------|------|-------------|
-| Maintainer | Arys Apriatna Ananda && Zaid Fathin Al Faiz | @Nelf-AAA && @Zaid-F-A |
-| Developer A | Arys Apriatna Ananda | @Nelf-AAA |
-| Developer B | Zaid Fathin Al Faiz | @Zaid-F-A |
+| Maintainer | Zaid Fathin Al Faiz | @Zaid-F-A |
+| Developer A | Esqy Zulkhiar | @esqy06-svg |
+| Developer B | Arys Apriatna Ananda |  @Nelf-AAA |
 
 ## Konvensi Penamaan Branch
 
