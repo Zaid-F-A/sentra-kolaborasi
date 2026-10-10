@@ -27,3 +27,4 @@ Repository bersama praktikum DevOps — Politeknik Negeri Batam.
 
 uji langsung
 uji langsung
+ - healthcheck.sh - memeriksa status layanan
